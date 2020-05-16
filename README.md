@@ -1,3 +1,6 @@
+## Description
+* This project was done following a tutorial from Udemy prepaid by Andrei in 2019.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
